@@ -1,0 +1,18 @@
+﻿@model List<TransferConcurrency.Service.Data.Account>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h3>All account</h3>
+<table>
+    <tr>
+        <td>Id</td>
+    </tr>
+    <tr>
+        @foreach (var item in Model)
+        {
+            <td class="someCssStyle">@item.Name</td>
+        }
+    </tr>
+</table>
+
