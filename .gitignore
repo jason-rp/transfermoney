@@ -212,3 +212,8 @@ packages/jQuery.1.10.2/Tools/common.ps1
 packages/jQuery.1.10.2/Tools/install.ps1
 packages/jQuery.1.10.2/Tools/jquery-1.10.2.intellisense.js
 packages/jQuery.1.10.2/Tools/uninstall.ps1
+/packages
+/TransferConcurrency.Test/obj/Debug
+/TransferConcurrency.Test/bin/Debug
+/TransferMoneyConsole.Test/obj/Debug
+/TransferMoneyConsole.Test/bin/Debug
