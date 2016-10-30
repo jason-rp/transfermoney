@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferConcurrency", "TransferConcurrency.Service\TransferConcurrency.csproj", "{87C876EA-12F1-49B8-A21F-CA584F5BE6D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransferConcurrency.Test", "TransferConcurrency.Test\TransferConcurrency.Test.csproj", "{25947428-DA96-4806-BFC2-9E9BBCA51836}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{87C876EA-12F1-49B8-A21F-CA584F5BE6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87C876EA-12F1-49B8-A21F-CA584F5BE6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87C876EA-12F1-49B8-A21F-CA584F5BE6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25947428-DA96-4806-BFC2-9E9BBCA51836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25947428-DA96-4806-BFC2-9E9BBCA51836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25947428-DA96-4806-BFC2-9E9BBCA51836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25947428-DA96-4806-BFC2-9E9BBCA51836}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
